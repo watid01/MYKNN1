@@ -5,7 +5,7 @@ st.title("🥨🥨WedSite Developing using Python🥨🥨")
 st.header("🥪WedSite Developing using Python🥪")
 
 st.subheader("WAtid MTV")
-st.image('./img/download.jfif')
+st.image('./img/my.jfif')
 
 dt = pd.read_csv('./data/iris.csv')
 st.header("ข้อมูลดอกไม้")
